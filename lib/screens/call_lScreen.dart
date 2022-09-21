@@ -17,7 +17,7 @@ class _callListState extends State<callList> {
       name: "Bilal",
       callType: "incoming",
       icon: "Audio",
-      callTime: "10:30",
+      callTime: "12:30",
     ),
     CallModel(
       avatar: "shamna ",
