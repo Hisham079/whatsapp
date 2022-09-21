@@ -20,7 +20,7 @@ class _callListState extends State<callList> {
       callTime: "10:30",
     ),
     CallModel(
-      avatar: " ",
+      avatar: "shamna ",
       name: "hafis",
       callType: "Out going",
       icon: "Video",
